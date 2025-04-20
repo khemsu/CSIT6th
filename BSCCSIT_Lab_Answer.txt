@@ -1,11 +1,11 @@
 #CSIT6th
 
-Pratical exam 
-Giving pratical exam right now.
+Pratical exam:
+-> Giving pratical exam right now.
 
-The exam contains question anout Trello , ganttpro ans Git push.
+->The exam contains question anout Trello , ganttpro ans Git push.
 
-Also our pratical exam ends tomorrow yahh!!!!
+->Also our pratical exam ends tomorrow yahh!!!!
 
 
 
